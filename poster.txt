@@ -1,0 +1,13 @@
+﻿/*
+*格式：方式|图片|标题|地址
+*方式：0->无反应,1->内部浏览器打开,2->使用系统浏览器打开,3->打开某APP
+*说明：空白参数用 "*" 代替
+*/
+
+<poster>
+txt01={
+@01="3|http://t.cn/RHsJ2tR|领红包|YWxpcGF5czovL3BsYXRmb3JtYXBpL3N0YXJ0YXBwP3NhSWQ9MTAwMDAwMDcmcXJjb2RlPWh0dHBzOi8vcXIuYWxpcGF5LmNvbS9jcHgwMDE4Nm1ud2R5dGppanJqcXQ2Yw=="
+@01="3|http://t.cn/RHsJ2tR|领红包|YWxpcGF5czovL3BsYXRmb3JtYXBpL3N0YXJ0YXBwP3NhSWQ9MTAwMDAwMDcmcXJjb2RlPWh0dHBzOi8vcXIuYWxpcGF5LmNvbS9jcHgwMDE4Nm1ud2R5dGppanJqcXQ2Yw=="
+@01="3|http://t.cn/RHsJ2tR|领红包|YWxpcGF5czovL3BsYXRmb3JtYXBpL3N0YXJ0YXBwP3NhSWQ9MTAwMDAwMDcmcXJjb2RlPWh0dHBzOi8vcXIuYWxpcGF5LmNvbS9jcHgwMDE4Nm1ud2R5dGppanJqcXQ2Yw=="
+};
+</poster>

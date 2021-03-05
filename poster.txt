@@ -6,6 +6,6 @@
 
 <poster>
 txt01={
-@01="2|http://t.cn/R8wsyA6|买源码|http://suo.im/2Wxxoa"
+@01="2|http://t.cn/R8wsyA6|买源码|https://jq.qq.com/?_wv=1027&k=55o0VGn"
 };
 </poster>

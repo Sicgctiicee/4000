@@ -14,14 +14,14 @@ iqiyi={
 
 qq={
 @01="http://www.27v9.cn/index.php?url="
+@01="http://2mm.vc/?url="
+@01="http://api.wztianyan.com/index.php?url="
 @01="http://api.fastflv.cc/jiexi/?url="
+@01="http://api.baiyug.cn/vip/index.php?url="
+@01="https://api.gagaliu.com/sq/?url="
 @01="http://api.xfsub.com/index.php?url="
 @01="http://jx.yuanzhanw.com/jx/index.php?url="
 @01="http://player.kuaikanwu.com/index.php?url="
-@01="http://api.baiyug.cn/vip/index.php?url="
-@01="https://api.gagaliu.com/sq/?url="
-@01="http://www.1111yun.com/jx/ty.php?url="
-@01="http://api.11ah.cn/play/index.php?url="
 };
 
 mgtv={
@@ -50,14 +50,14 @@ letv={
 
 youku={
 @01="http://www.27v9.cn/index.php?url="
+@01="http://api.wztianyan.com/index.php?url="
+@01="http://api.xfsub.com/index.php?url="
+@01="http://api.baiyug.cn/vip/index.php?url="
 @01="http://jx.yuanzhanw.com/jx/index.php?url="
 @01="http://player.kuaikanwu.com/index.php?url="
-@01="http://api.baiyug.cn/vip/index.php?url="
-@01="http://api.xfsub.com/index.php?url="
 @01="http://www.uj99.cn/000o/?url="
 @01="https://api.gagaliu.com/sq/?url="
 @01="http://api.tv-123.cn/v/?url="
-@01="http://014670.cn/jx/ty.php?url="
 };
 
 sohu={

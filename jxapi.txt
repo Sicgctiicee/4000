@@ -50,13 +50,13 @@ letv={
 
 youku={
 @01="http://www.27v9.cn/index.php?url="
-@01="http://api.wztianyan.com/index.php?url="
+@01="http://2mm.vc/?url="
+@01="https://api.gagaliu.com/sq/?url="
 @01="http://api.xfsub.com/index.php?url="
 @01="http://api.baiyug.cn/vip/index.php?url="
 @01="http://jx.yuanzhanw.com/jx/index.php?url="
 @01="http://player.kuaikanwu.com/index.php?url="
 @01="http://www.uj99.cn/000o/?url="
-@01="https://api.gagaliu.com/sq/?url="
 @01="http://api.tv-123.cn/v/?url="
 };
 

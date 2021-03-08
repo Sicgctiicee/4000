@@ -7,5 +7,9 @@
 <poster>
 txt01={
 @01="2|http://t.cn/R8wsyA6|买源码|https://jq.qq.com/?_wv=1027&k=55o0VGn"
+@01="1|http://t.cn/R8tE4K4|寻秦记|http://suo.im/3vZc4D"
+@01="1|http://t.cn/R8tnwaY|解忧杂货店|http://suo.im/2elyS"
+@01="1|http://t.cn/R8tnSFd|奇门遁甲|http://suo.im/bmKv"
+@01="2|http://t.cn/R8wsyA6|买源码|https://jq.qq.com/?_wv=1027&k=55o0VGn"
 };
 </poster>

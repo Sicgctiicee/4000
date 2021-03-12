@@ -1,9 +1,9 @@
 <jxapi>
 
 iqiyi={
+@01="http://api.taoling.vip/changurl.php?url="
 @01="http://2mm.vc/?url="
 @01="http://www.27v9.cn/index.php?url="
-@01="http://api.taoling.vip/changurl.php?url="
 @01="http://jx.yuanzhanw.com/jx/index.php?url="
 @01="http://player.kuaikanwu.com/index.php?url="
 @01="http://api.wztianyan.com/index.php?url="
@@ -13,13 +13,13 @@ iqiyi={
 };
 
 qq={
+@01="http://api.taoling.vip/changurl.php?url="
 @01="http://2mm.vc/?url="
 @01="http://www.27v9.cn/index.php?url="
+@01="http://api.baiyug.cn/vip/index.php?url="
 @01="http://api.wztianyan.com/index.php?url="
 @01="http://api.fastflv.cc/jiexi/?url="
-@01="http://api.baiyug.cn/vip/index.php?url="
 @01="https://api.gagaliu.com/sq/?url="
-@01="http://api.xfsub.com/index.php?url="
 @01="http://jx.yuanzhanw.com/jx/index.php?url="
 @01="http://player.kuaikanwu.com/index.php?url="
 };
@@ -61,11 +61,11 @@ youku={
 };
 
 sohu={
+@01="http://api.wztianyan.com/index.php?url="
+@01="https://player.dengtian.org/ipsign/player.php?v="
+@01="http://www.uj99.cn/000o/?url="
 @01="http://2mm.vc/?url="
 @01="http://www.27v9.cn/index.php?url="
-@01="https://player.dengtian.org/ipsign/player.php?v="
-@01="http://api.wztianyan.com/index.php?url="
-@01="http://www.uj99.cn/000o/?url="
 @01="http://www.wmxz.wang/video.php?url="
 @01="http://vip.jlsprh.com/index.php?url="
 @01="http://014670.cn/jx/ty.php?url="

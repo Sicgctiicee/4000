@@ -1,10 +1,10 @@
 <jxapi>
 
 iqiyi={
-@01="http://api.taoling.vip/changurl.php?url="
 @01="http://2mm.vc/?url="
 @01="http://www.27v9.cn/index.php?url="
 @01="http://jx.yuanzhanw.com/jx/index.php?url="
+@01="http://api.taoling.vip/changurl.php?url="
 @01="http://player.kuaikanwu.com/index.php?url="
 @01="http://api.wztianyan.com/index.php?url="
 @01="http://api.baiyug.cn/vip/index.php?url="

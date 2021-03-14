@@ -4,7 +4,18 @@
 */
 
 <UserUp>
-@x="1|http://pic.pic-img.com/pic/upload/vod/2018-01/201801301517255908.jpg|蜀山战纪2踏火行歌|http://bobo.okokbo.com/20180206/ZigZnqIi/index.m3u8|电视剧"
+@x="1|http://pic.pic-img.com/pic/upload/vod/2018-01/201801301517255908.jpg|蜀山战纪2踏火行歌|第01集$http://bobo.okokbo.com/20180130/6fcdTn68/index.m3u8
+第02集$http://bobo.okokbo.com/20180130/NuYkq73B/index.m3u8
+第03集$http://bobo.okokbo.com/20180130/DmvPEz7A/index.m3u8
+第04集$http://bobo.okokbo.com/20180130/dnteqDkC/index.m3u8
+第05集$http://bobo.okokbo.com/20180130/unJTOq6w/index.m3u8
+第06集$http://bobo.okokbo.com/20180130/RDRKus9W/index.m3u8
+第07集$http://bobo.okokbo.com/20180206/gBS2CL9o/index.m3u8
+第08集$http://bobo.okokbo.com/20180206/u9VaAhmF/index.m3u8
+第09集$http://bobo.okokbo.com/20180206/6rTOVp5v/index.m3u8
+第10集$http://bobo.okokbo.com/20180206/3mAfUoZQ/index.m3u8
+第11集$http://bobo.okokbo.com/20180206/hLc7UMS4/index.m3u8
+第12集$http://bobo.okokbo.com/20180206/ZigZnqIi/index.m3u8|电视剧"
 @x="1|http://img3.doubanio.com/view/movie_poster_cover/lpst/public/p453716305.jpg|色戒无删减版158分钟|http://www.ykmov.com/ckflv/m3u8.php?vid=http://fuli.yazyzw.com:80/20170606/4Bk8BKT4/index.m3u8|爱情片"
 @x="1|http://t.cn/RHDbUXb|前任3：再见前任|http://yj.yongjiu6.com/share/PSaG5XSjOYuacB3b|爱情片"
 @x="1|http://tp.bjbna.net/images/2/2018/01/gmNSKHZHjDJ9ls3WXD3HBNzX3kgHzu.jpg|猫妖传|http://yong.yongjiu6.com/share/5UpS6XqiR6XBYkHP|喜剧"

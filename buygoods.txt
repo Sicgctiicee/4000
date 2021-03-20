@@ -17,7 +17,7 @@
 *设置需要显示的支付方式(已集成：alipay,wxpay,qqpay)
 100003={alipay,wxpay,qqpay};
 *设置网页购买地址
-200000={URL="https://www.2faka.com/product/DD03DDB8809C"};
+200000={URL="https://www.2faka.com/product/53D4373A248A"};
 
 txt01={
 @1001="***********************" *天卡

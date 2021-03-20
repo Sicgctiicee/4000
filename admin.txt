@@ -34,4 +34,11 @@ zhiliao=[qun=198228152‖key=cgI85qIWYfgP6Bd8CKerDunSqqDKRj2O‖pay=0‖商户ID
 100007={poster="https://gitee.com/zl1808950806/4000/raw/master/poster.txt"};
 100008={UserUp="https://gitee.com/zl1808950806/4000/raw/master/UserUp.txt"};
 </ADMIN40000>
+
+<ADMIN50000>
+100001={title="免费小说",url="https://m.qu.la"};
+100002={title="电视直播",url="http://m.91kds.net/index.html"};
+100003={title="网页购买",url="https://w.url.cn/s/ABYkmwF"};
+100004={title="快看漫画",url="http://www.kuaikanmanhua.com/"};
+</ADMIN50000>
 </admin>

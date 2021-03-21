@@ -6,10 +6,8 @@
 
 <poster>
 txt01={
-@01="1|http://t.cn/R89GnV4|全球风暴|http://t.cn/R89qnOC"
-@01="1|http://t.cn/R895LSh|解忧杂货店|http://suo.im/2elyS"
-@01="1|http://t.cn/R895DfA|奇门遁甲|http://t.cn/R89tiGl"
-@01="1|http://t.cn/R89cfZk|坑爹游戏|http://t.cn/R89cBOU"
-@01="1|http://t.cn/R89VyWM|七月半3：灵触第七感|http://t.cn/R89VdTA"
+@01="1|http://suo.im/2y8Ig5|寻秦记|http://suo.im/1hEyEv"
+@01="1|http://suo.im/1WeMgo|琅琊榜2|http://suo.im/oq1su"
+@01="1|http://suo.im/23RZ35|西游记女儿国|http://suo.im/1mQnMY"
 };
 </poster>

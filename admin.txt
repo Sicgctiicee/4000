@@ -7,7 +7,7 @@
 100003={会员开关="真"};
 100004={更新说明="更新说明：|1.请你一定要更新|2.优化优酷剧集不能读取问题|3.优化软件界面UI|4.修复腾讯视频剧集读取不完整"};
 100020={公告内容="视频观看攻略:由于软件开启了自动全屏播放模式，下次打开视频会自动播放全屏，如不能播放，请切换解析按钮更换线路！"};
-100080={QQ="3081333802",WX="swhbfq",URL="https://pan.lanzou.com/i0ikeob",URL2="https://fir.im/47am"};
+100080={QQ="3081333802",WX="swhbfq",URL="https://pan.lanzou.com/i0ikiri",URL2="https://fir.im/47am"};
 zhiliao=[qun=198228152‖key=cgI85qIWYfgP6Bd8CKerDunSqqDKRj2O‖pay=0‖商户ID=‖商户密匙=‖弹窗内容=‖
 </ADMIN10000>
 
@@ -19,7 +19,7 @@ zhiliao=[qun=198228152‖key=cgI85qIWYfgP6Bd8CKerDunSqqDKRj2O‖pay=0‖商户ID
 100003={会员开关="真"};
 100004={更新说明="更新说明：|1.请你一定要更新|2.新增部分内容|3.更新BUG,修复当前问题|4.修复其他"};
 100020={公告内容="视频观看攻略:由于软件开启了自动全屏播放模式，下次打开视频会自动播放全屏，如不能播放，请切换解析按钮更换线路！"};
-100080={QQ="3081333802",WX="swhbfq",URL="https://pan.lanzou.com/i0ikeob",URL2="https://fir.im/47am"};
+100080={QQ="3081333802",WX="swhbfq",URL="https://pan.lanzou.com/i0ikiri",URL2="https://fir.im/47am"};
 </ADMIN20000>
 
 <ADMIN40000>

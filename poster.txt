@@ -6,6 +6,8 @@
 
 <poster>
 txt01={
+@01="1|http://suo.im/3gU9D|卧底巨星|http://suo.im/USjkb"
+@01="1|http://suo.im/1YDaeZ|谈判官|http://suo.im/4fduUG"
 @01="1|http://suo.im/2y8Ig5|寻秦记|http://suo.im/1hEyEv"
 @01="1|http://suo.im/1WeMgo|琅琊榜2|http://suo.im/oq1su"
 @01="1|http://suo.im/23RZ35|西游记女儿国|http://suo.im/1mQnMY"

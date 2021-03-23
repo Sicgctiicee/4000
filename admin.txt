@@ -24,7 +24,7 @@ zhiliao=[qun=198228152‖key=cgI85qIWYfgP6Bd8CKerDunSqqDKRj2O‖pay=0‖商户ID
 
 <ADMIN40000>
 *@pay：0->关闭,1->在线支付,2->网页购买,3->自由选择
-400000={@pay="1",@UserName="MM10000",@RechargeApi="http://w.eydata.net/6ca60d78e1887c24"}; 
+400000={@pay="0",@UserName="MM10000",@RechargeApi="http://w.eydata.net/6ca60d78e1887c24"}; 
 100001={agent="https://gitee.com/zl1808950806/4000/raw/master/agent.txt"};
 100002={feedback="https://gitee.com/zl1808950806/4000/raw/master/feedback.txt"};
 100003={key="https://gitee.com/zl1808950806/4000/raw/master/key.txt"};

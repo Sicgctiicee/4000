@@ -7,8 +7,9 @@
 <poster>
 txt01={
 @01="1|http://suo.im/Iyuc0|捉妖记2:抢先版|http://suo.im/2oAdfp"
-@01="1|http://suo.im/3TPW6s|独孤天下|http://suo.im/USjkb"
-@01="1|http://suo.im/1glvQC|内衣先生|http://suo.im/4fduUG"
-@01="1|http://suo.im/2iEZzj|笑傲江湖|http://suo.im/1hEyEv"
+@01="1|http://suo.im/4idb4L|人生若如初相见|https://v.qq.com/x/cover/b9ft3bzwn67twwp.html"
+@01="1|http://suo.im/1Jd0M3|谈判官|https://v.qq.com/x/cover/1efvvnobsa3zbcc.html"
+@01="1|http://suo.im/1OH2LL|独孤天下|https://v.qq.com/x/cover/033i818h6hqga2i.html"
+@01="1|http://suo.im/1vsr9C|新笑傲江湖|https://v.qq.com/x/cover/8jkko7n7si6k04m.html"
 };
 </poster>

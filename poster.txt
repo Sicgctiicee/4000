@@ -6,7 +6,6 @@
 
 <poster>
 txt01={
-@01="1|http://suo.im/Iyuc0|捉妖记2:抢先版|http://suo.im/2oAdfp"
 @01="1|http://suo.im/4idb4L|人生若如初相见|https://v.qq.com/x/cover/b9ft3bzwn67twwp.html"
 @01="1|http://suo.im/1Jd0M3|谈判官|https://v.qq.com/x/cover/1efvvnobsa3zbcc.html"
 @01="1|http://suo.im/1OH2LL|独孤天下|https://v.qq.com/x/cover/033i818h6hqga2i.html"

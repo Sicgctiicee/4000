@@ -4,9 +4,9 @@
 */
 
 <UserUp>
-@x="1|http://img3.doubanio.com/view/movie_poster_cover/lpst/public/p453716305.jpg|色戒无删减版158分钟|http://www.ykmov.com/ckflv/m3u8.php?vid=http://fuli.yazyzw.com:80/20170606/4Bk8BKT4/index.m3u8|爱情片"
-@x="1|http://t.cn/RHDbUXb|前任3：再见前任|http://yj.yongjiu6.com/share/PSaG5XSjOYuacB3b|爱情片"
-@x="1|http://tp.bjbna.net/images/2/2018/01/gmNSKHZHjDJ9ls3WXD3HBNzX3kgHzu.jpg|猫妖传|http://yong.yongjiu6.com/share/5UpS6XqiR6XBYkHP|喜剧"
+@x="1|http://img1.doubanio.com/view/photo/s_ratio_poster/public/p2506694509.jpg|星球大战8：最后的绝地武士|http://v.yongjiujiexi.com/20180310/DEsJhz9Q/index.m3u8|科幻片"
+@x="1|http://img3.doubanio.com/view/photo/s_ratio_poster/public/p2512902242.jpg|灵契真人版|https://v4.438vip.com/share/uzfsr4ePnmLIgHuF|奇幻片"
+@x="1|http://ww1.sinaimg.cn/large/9dfd21afgy1fp74t6x08rj209e0e33zv.jpg|局外人|https://v4.438vip.com/share/arbZEYByAZJcNRVM|动作片"
 @x="1|http://tp.bjbna.net/images/2/2018/01/huKtUoyN3TOmaMAYsMd5K45My1HAY3.jpg|奇门遁甲|http://yong.yongjiu6.com/share/05FlS1bVyYySDvEU|魔幻"
 @x="1|http://t.cn/RHDhqpm|两个女人的诱惑|http://1.tcpspc.com:2100/share/0pFjBbaEAvtaS3Ci|日韩伦理"
 @x="1|http://www.ckplayer.tv/upload/vod/2017-10-18/150830418215.jpg|别在树林里操屄|http://kan.djie.pw/share/iKox9wSVauRYLdUt|日韩伦理"

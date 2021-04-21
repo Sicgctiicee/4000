@@ -7,7 +7,7 @@
 100003={会员开关="真"};
 100004={更新说明="更新说明：|1.请你一定要更新|2.修复爱奇艺搜索图片显示|3.优化软件界面UI|4.修复腾讯视频剧集读取不完整"};
 100020={公告内容="免VIP抢先看大片，更多精彩资源请到群内下载！感谢支持！"};
-100080={QQ="3081333802",WX="swhbfq",URL="https://fir.im/47am",URL2="https://pan.lanzou.com/i0n56kj"};
+100080={QQ="3081333802",WX="swhbfq",URL="https://fir.im/47am",URL2="https://pan.lanzou.com/i0ns4gb"};
 zhiliao=[qun=198228152‖key=cgI85qIWYfgP6Bd8CKerDunSqqDKRj2O‖pay=0‖商户ID=‖商户密匙=‖弹窗内容=‖
 </ADMIN10000>
 
@@ -19,7 +19,7 @@ zhiliao=[qun=198228152‖key=cgI85qIWYfgP6Bd8CKerDunSqqDKRj2O‖pay=0‖商户ID
 100003={会员开关="真"};
 100004={更新说明="更新说明：|1.请你一定要更新|2.修复爱奇艺搜索图片显示|3.优化软件界面UI|4.修复腾讯视频剧集读取不完整"};
 100020={公告内容="免VIP抢先看大片，更多精彩资源请到群内下载！感谢支持！"};
-100080={QQ="3081333802",WX="swhbfq",URL="https://fir.im/47am",URL2="https://pan.lanzou.com/i0n56kj"};
+100080={QQ="3081333802",WX="swhbfq",URL="https://fir.im/47am",URL2="https://pan.lanzou.com/i0ns4gb"};
 </ADMIN20000>
 
 <ADMIN40000>

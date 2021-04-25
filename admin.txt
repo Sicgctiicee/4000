@@ -7,7 +7,7 @@
 100003={会员开关="真"};
 100004={更新说明="更新说明：|1.请你一定要更新|2.优化时间错乱问题|3.优化软件界面UI|4.修复优酷剧集问题"};
 100020={公告内容="新版已上线，没有更新的朋友请移至个人中心复制下载地址，下载更新！"};
-100080={QQ="3081333802",WX="swhbfq",URL="https://fir.im/47am",URL2="https://pan.lanzou.com/i0oev8h"};
+100080={QQ="3081333802",WX="swhbfq",URL="https://fir.im/47am",URL2="https://pan.lanzou.com/i0onkwj"};
 </ADMIN10000>
 
 <ADMIN20000>
@@ -18,7 +18,7 @@
 100003={会员开关="真"};
 100004={更新说明="更新说明：|1.请你一定要更新|2.优化时间错乱问题|3.优化软件界面UI|4.修复优酷剧集问题"};
 100020={公告内容="新版已上线，没有更新的朋友请移至个人中心复制下载地址，下载更新！"};
-100080={QQ="3081333802",WX="swhbfq",URL="https://fir.im/47am",URL2="https://pan.lanzou.com/i0oev8h"};
+100080={QQ="3081333802",WX="swhbfq",URL="https://fir.im/47am",URL2="https://pan.lanzou.com/i0onkwj"};
 </ADMIN20000>
 
 <ADMIN40000>

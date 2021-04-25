@@ -20,10 +20,10 @@
 200000={URL="https://www.2faka.com/product/4AA059FB9D7C"};
 
 txt01={
-@1003="https://www.2faka.com/product/2FA51BF69812" *月卡
-@1004="https://www.2faka.com/product/B39926E0C96C" *季卡
-@1006="https://www.2faka.com/product/5478EE748C5F" *年卡
-@1007="https://www.2faka.com/product/4AA059FB9D7C" *永久卡
+@1003="http://www.zuopay.com/details/AD2A361481945D0C" *月卡
+@1004="http://www.zuopay.com/details/C9EE806550814B5C" *季卡
+@1006="http://www.zuopay.com/details/D5E60293822CA648" *年卡
+@1007="http://www.zuopay.com/details/2723DFEA9A121ABB" *永久卡
 };
 
 

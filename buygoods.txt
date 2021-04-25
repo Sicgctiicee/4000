@@ -13,17 +13,17 @@
 *设置商品价格
 100001={1003="9.00",1004="18.00",1006="25.00",1007="35.00"};
 *设置支付方式对应的商品地址
-100002={alipay="txt01",wxpay="txt01",qqpay="txt01"};
-*设置需要显示的支付方式(已集成：alipay,wxpay,qqpay)
-100003={alipay,wxpay,qqpay};
+100002={alipay="txt01",qqpay="txt01"};
+*设置需要显示的支付方式(已集成：alipay,qqpay)
+100003={alipay,qqpay};
 *设置网页购买地址
-200000={URL="http://www.zuopay.com/category/7316321C1E451BDC"};
+200000={URL="https://www.2faka.com/product/4AA059FB9D7C"};
 
 txt01={
-@1003="http://www.zuopay.com/details/AD2A361481945D0C" *月卡
-@1004="http://www.zuopay.com/details/C9EE806550814B5C" *季卡
-@1006="http://www.zuopay.com/details/D5E60293822CA648" *年卡
-@1007="http://www.zuopay.com/details/2723DFEA9A121ABB" *永久卡
+@1003="https://www.2faka.com/product/2FA51BF69812" *月卡
+@1004="https://www.2faka.com/product/B39926E0C96C" *季卡
+@1006="https://www.2faka.com/product/5478EE748C5F" *年卡
+@1007="https://www.2faka.com/product/4AA059FB9D7C" *永久卡
 };
 
 
